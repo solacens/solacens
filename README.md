@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **solacens/solacens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here is a full-stack developer, specialized in DevOps and different cloud providers such as AWS, Azure, GCP, etc.
+Experienced in containerization, container orchestration, infrastructure as code, and other DevOps perks.
